@@ -202,6 +202,7 @@ int main()
 	first_list.reverse();
 	cout << "After reverse" << endl;
 	first_list.print();
+	first_list.print_address();
 	
 }
 
